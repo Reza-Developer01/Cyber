@@ -2,7 +2,7 @@
 
 ** This website is redesign from shenoto website. thanks for watching **
 
-![16](https://github.com/user-attachments/assets/8163e6e1-2001-44a9-a182-09ddc504cf5e)
+![16](https://github.com/Reza-Developer01/Cyber/blob/main/16.png)
 
 - ✨ [Demo Project](https://reza-developer01.github.io/shenoto/)
 
