@@ -1,10 +1,10 @@
 # Cyber
 
-** This website is redesign from shenoto website. thanks for watching **
+Responsive mobile store design📱
 
 ![16](https://github.com/Reza-Developer01/Cyber/blob/main/16.png)
 
-- ✨ [Demo Project](https://reza-developer01.github.io/shenoto/)
+- ✨ [Demo Project](https://reza-developer01.github.io/Cyber/)
 
 - 👨‍💻 Developed by Reza Rashvand
 
